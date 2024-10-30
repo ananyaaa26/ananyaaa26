@@ -3,7 +3,7 @@
 
 - 👨‍💻 My Portfolio [https://ananyaaa26.github.io/portfolio-website/](https://ananyaaa26.github.io/portfolio-website/)
 
-- 📫 How to reach me **ananyayaa14@gmail.com**
+- 📫 How to reach me **ananya.tuli@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
