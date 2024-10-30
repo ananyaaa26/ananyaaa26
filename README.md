@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Ananya Tuli</h1>
 <h3 align="center">Creating and Debugging My Way Through College</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartcoding.co.in%2F&psig=AOvVaw2Op0ShRF5WX19ToMh9GSnf&ust=1730402166277000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCYzNLotokDFQAAAAAdAAAAABAK)">
 
 - 📫 How to reach me **ananyayaa14@gmail.com**
 
