@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Tuli</h1>
 <h3 align="center">Creating and Debugging My Way Through College</h3>
 
-- 👨‍💻 My Portfolio [https://ananyaaa26.github.io/portfolio-website/](https://ananyaaa26.github.io/portfolio-website/)
-
-- 📫 How to reach me **ananya.tuli@outlook.com**
+- 📫 How to reach me **ananyayaa14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
